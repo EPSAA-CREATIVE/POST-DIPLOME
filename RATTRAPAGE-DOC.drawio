@@ -1,23 +1,39 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8" pages="5">
-  <diagram name="OUTILS" id="DeTf8IHni4I4m6eNFWXS">
-    <mxGraphModel dx="1464" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="fLeM2fr0zAt7r0mtg3yX-1" value="DRAW.IO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fLeM2fr0zAt7r0mtg3yX-2" value="GIT HUB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="a75Ny9vCTHJzIN6nfvq9" name="METHODO">
-    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hpUA3132rCrWpxZM_-cd-1" value="RECHERCHE BIBLI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hpUA3132rCrWpxZM_-cd-2" value="RECHERCHE INTERNET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-1" value="RASSEMBLER RECHERCHES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-2" value="DOCUMENT / MISE EN PAGE / PLANCHE TENDANCE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-3" value="NOTE D&#39;INTENTION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-4" value="AXES CREATIFS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-5" value="DRAW.IO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-6" value="DOSSIER GIT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-7" value="PROPOSITION" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7N4ihCqQB9pge_jw2jB3-8" value="PLANNING / CHECK LIST" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -30,18 +46,65 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qIaud3xn9J1avacUOSxg" name="IMPRESSION">
-    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="81hk0bipmELIL_hkNLkx-1" value="CMJN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81hk0bipmELIL_hkNLkx-2" value="RVB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="81hk0bipmELIL_hkNLkx-3" value="IMPOSITION&lt;div&gt;A LA MANO&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="jlaZ76E0XHCKzlp93z7_" name="FAB-LAB">
-    <mxGraphModel dx="1098" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2954" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rj8jSHg-htwcF8npSS3i-1" value="IMPRESSION 3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-2" value="DECOUPE LASER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-3" value="PLOTTER DECOUPE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-4" value="PRESSE A CHAUD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-5" value="RISO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="480" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rj8jSHg-htwcF8npSS3i-7" value="PROGRAMMATION / UNITY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="OUTILS SOFT" id="DeTf8IHni4I4m6eNFWXS">
+    <mxGraphModel dx="2954" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fLeM2fr0zAt7r0mtg3yX-1" value="DRAW.IO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLeM2fr0zAt7r0mtg3yX-2" value="GIT HUB" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
